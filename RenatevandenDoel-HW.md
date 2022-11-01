@@ -1,0 +1,7 @@
+# Rigor and Reproducibility Homework
+### written by Renate van den Doel
+
+I found the class about Git and Github very interesing and I was very impressed with the many possibilities it provides for users. What I found particularly interesting is branching, because it allows multiple users to work on the same project at the same time without being in the same file and possibly interfering with each other’s work. Since it is still possible to merge the two files that are created in this way, I find it a uniquely convenient way to collaborate. Another feature that I really liked is ‘issues’. I think that it is great that users can help each other to solve problems that they encounter, which probably happens quite often.
+
+R and Git/Github, especially when used together, can help to significantly improve the reproducibility of computational analyses. R is a software that is accessible to all researchers, because you do not require a license to use it. This makes it easy for other people to repeat your analyses, especially when you share your code with the public on repositories like Github.
+Git/Github enables users to track all the analyses performed on the data and how these were changed over time. This ensures that all steps of the data analysis are recorded as described in 1e and 5 of the best practices in Wilson et al. In addition, Git/Github facilitates easy collaboration with several features covering all of 3 in the best practices overview by Wilson et al.
